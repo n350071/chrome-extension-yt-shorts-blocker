@@ -42,8 +42,29 @@ If you:
 
 Then this tool is for you.
 
+
+## 🔐 Privacy Policy
+
+This extension is completely private:
+
+- No tracking
+- No analytics
+- No external requests
+- No unnecessary permissions
+
 ## 👤 Author
 Created by [naoki](https://github.com/n350071)
 This extension was made to help people — including myself and my kids — avoid algorithm-driven short-form content and reclaim our attention.
 Founder of 株式会社ゼロイチハッカー
 Maintainer of this Chrome extension.
+
+## 🛠️ License
+
+MIT License
+Feel free to use, modify, and distribute.
+
+---
+
+Made for focus. Minimal by design. No distractions, no noise.
+
+
