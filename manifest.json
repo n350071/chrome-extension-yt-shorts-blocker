@@ -2,13 +2,17 @@
   "manifest_version": 3,
   "name": "YouTube Shorts Blocker",
   "version": "1.0",
-  "description": "Block or redirect YouTube Shorts.",
-  "permissions": ["webRequest", "webRequestBlocking", "declarativeNetRequest"],
+  "description": "Redirect YouTube Shorts to blank page.",
+  "permissions": ["declarativeNetRequest"],
   "host_permissions": ["*://www.youtube.com/*"],
-  "background": {
-    "service_worker": "background.js"
-  },
   "action": {
     "default_title": "Shorts Blocker"
+  },
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "rules.json"
+    }]
   }
 }
