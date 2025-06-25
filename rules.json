@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "urlFilter": "||youtube.com/shorts/",
+      "urlFilter": "https://www.youtube.com/shorts/",
       "resourceTypes": ["main_frame"]
     }
   }
