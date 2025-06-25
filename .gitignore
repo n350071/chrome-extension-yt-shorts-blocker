@@ -1,2 +1,8 @@
 # OSXが勝手に作るファイルを無視します
 .DS_Store
+
+# Chrome Web Store に送るときのzipファイルは無視します
+yt-shorts-blocker.zip
+
+# 開発者モードでChromeに読み込んだときにできるディレクトリも無視します
+_metadata/*
