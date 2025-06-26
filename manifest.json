@@ -3,7 +3,7 @@
   "name": "YouTube Shorts Blocker",
   "version": "1.0",
   "description": "Redirect YouTube Shorts to blank page.",
-  "permissions": ["declarativeNetRequest", "scripting"],
+  "permissions": ["declarativeNetRequest"],
   "host_permissions": ["*://www.youtube.com/*"],
   "action": {
     "default_title": "Shorts Blocker"
