@@ -21,9 +21,7 @@ This lightweight Chrome extension blocks all access to Shorts by:
 ## 📦 Installation
 
 ### Chrome Web Store
-_(Coming soon — replace with actual link after publishing)_
-
-👉 [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/your-extension-id)
+👉 [Install from Chrome Web Store](https://chromewebstore.google.com/detail/youtube-shorts-blocker/nomagijpgodlnjbjcfefmdmabcglhpnk)
 
 ### Manual Installation
 
